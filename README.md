@@ -1,5 +1,5 @@
 ### Hi there 👋
-Checkout my [website](https://lucap.me)
+Checkout my [website](https://lucap.dev)
 
 <!--
 **mlucap/mlucap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
